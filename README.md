@@ -5,9 +5,8 @@ Diplômé d’un Master en Data Management à PSB, je suis spécialisé dans l�
 
 ## Profil professionnel
 
-Je conçois des solutions d’analyse et de reporting basées sur la donnée : préparation, modélisation, visualisation et interprétation.  
-Mon travail consiste à traduire les besoins métiers en indicateurs pertinents et tableaux de bord exploitables.  
-Mon objectif est de transformer la donnée en un **outil d’aide à la décision** grâce à des analyses précises, des visualisations claires et des processus automatisés.
+Je conçois des rapports et tableaux de bord qui transforment la donnée en véritables leviers de décision.  
+Mon rôle consiste à relier la technique au besoin métier : collecter, préparer et modéliser les données pour produire des analyses claires, automatisées et directement exploitables par les décideurs.
 
 ## Compétences techniques
 
