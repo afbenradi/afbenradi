@@ -30,10 +30,10 @@ Méthodologie Agile (Scrum, sprints), pilotage via Jira, analyse et exploitation
 
 | Projet | Description | Outils principaux |
 |--------|--------------|------------------|
+| Amélioration du pilotage managérial | Création d’un rapport Power BI multi-pages pour le suivi de performance de 130 conseillers. Définition et mise en place de KPIs clés (volume traité, réactivité) et de segments dynamiques (période, conseiller). Données nettoyées et modélisées via Power Query. Le rapport est utilisé par 10 managers pour le pilotage et la valorisation des équipes. | Power BI, Power Query, DAX |
 | Carburants – Ouest IDF (92/95/78) | Dashboard Looker Studio × BigQuery × Google Sheets pour identifier les stations SP95 les moins chères autour de Nanterre, avec calcul géographique des distances et indicateurs dynamiques. | Looker Studio, BigQuery, SQL, Google Sheets |
 | RH – Prédiction du Turnover | Analyse des données RH et modélisation du risque de départ, segmentation des salariés et restitution en dashboard Power BI. | Python (Pandas, Scikit-learn), Power BI |
 | Cloud BI – Databricks / Azure | Pipeline d’ingestion et d’analyse sous Databricks (Spark SQL / PySpark), intégration dans un environnement Azure avec Synapse et Data Lake. | Databricks, Azure Synapse, Spark |
-| Analyse Sportive | Étude de statistiques et performances sportives à partir de données publiques, analyses sous Python et visualisation interactive. | Python, Power BI |
 
 ## Centres d’intérêt
 
