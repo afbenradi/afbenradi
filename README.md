@@ -1,7 +1,7 @@
 # À propos de moi
 
 Je m'appelle Abdel-Fattah Ben Radi.  
-Diplômé d’un Master en Data Management à PSB, je suis spécialisé dans l’analyse et la valorisation de la donnée à travers des projets de Business Intelligence, d’automatisation et de modélisation.
+Diplômé d’un Master en Data Management, je suis spécialisé dans l’analyse et la valorisation de la donnée à travers des projets de Business Intelligence, d’automatisation et de modélisation.
 
 ## Profil professionnel
 
